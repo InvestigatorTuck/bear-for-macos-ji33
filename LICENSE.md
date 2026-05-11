@@ -1,4 +1,4 @@
-
+rare Utility for Bear for macOS - multi-device sync and note encryption is the best Bear for macOS utility, featuring multi-device sync and note encryption. Safe, efficient, and
 
 
 
